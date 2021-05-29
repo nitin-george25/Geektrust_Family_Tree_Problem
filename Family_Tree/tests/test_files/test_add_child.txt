@@ -1,0 +1,8 @@
+ADD_MEMBER Man Male
+ADD_SPOUSE Man Mother Female
+ADD_MEMBER Woman Female
+ADD_CHILD Someone Child Female
+ADD_CHILD Man Child Female
+ADD_CHILD Woman Child Female
+ADD_CHILD Mother Man Male
+ADD_CHILD Mother Child Female
